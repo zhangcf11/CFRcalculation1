@@ -1,0 +1,18 @@
+#' @title Data from simulation
+#' @docType  data
+#' @name individual
+#' @description Individual survival data from simulation.
+#' @usage data(individual)
+#' @format A data frame with 2000 observations on the following 6 variables
+#' \describe{
+#' \item{id}{patient id number.}
+#' \item{time1}{entry time.}
+#' \item{time2}{the time of cure or death.}
+#' \item{dc}{indicator of outcome; 1-death,2-cure.}
+#' \item{sex}{sex. 1-male,0-female.}
+#' \item{age}{age. 0-<=60,1->60.}
+#' }
+#' @examples
+#' library(CFRcalculation)
+#' data(individual)
+NULL
