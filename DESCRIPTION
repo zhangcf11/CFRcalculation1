@@ -1,0 +1,16 @@
+Package: CFRcalculation
+Type: Package
+Title: Calculating CFR By Using Different Methods
+Version: 0.1.0
+Author: Huilin Chen;Zheng Chen
+Maintainer: Zheng Chen<zchen@smu.edu.cn>
+Description: Several methods calculating case fatality rate(CFR): 
+		methods for individual data and methods for summarized 
+		data.This work was supported by the National Natural 
+		Science Foundation of China [81202288].
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+NeedsCompilation: no
+Packaged: 2023-10-09 11:19:31 UTC; Dell
